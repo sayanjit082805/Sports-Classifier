@@ -115,7 +115,7 @@ st.sidebar.header("Dataset Information", divider="gray")
 
 st.sidebar.markdown(
     """ 
-    The dataset has been taken from [Kaggle](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset/data). It contains around 36,000 images of aircraft of various different countries.
+    The dataset has been taken from [Kaggle](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset/data). It contains around 19,000 images of 100 different sports.
 
 **Statistics** :
 
