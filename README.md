@@ -7,7 +7,7 @@ A deep learning project to classify different sports into nearly 100 distinct ty
 
 # Overview
 
-This project implements a convolutional neural network (CNN) based on Google's EfficientNet architecture to classify images of various sports. The model has been fineyned 
+This project implements a convolutional neural network (CNN) based on Google's EfficientNet architecture to classify images of various sports. The model has been fine-tuned after the initial training in order to increase accuracy.
 
 
 # Dataset
